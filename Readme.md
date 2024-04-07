@@ -8,7 +8,7 @@ https://www.dotenv.org/docs
 [https://12factor.net/](https://12factor.net/config)
 The Twelve Factors
 The methodology was drafted by developers at Heroku, a platform-as-a-service company, and was first presented by Adam Wiggins circa 2011.[1]
-**III 	Config 	Configuration that varies between deployments should be stored in the environment. **
+** III 	Config 	Configuration that varies between deployments should be stored in the environment. **
 
 ```
 # example .env file
